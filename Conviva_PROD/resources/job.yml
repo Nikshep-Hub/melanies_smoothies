@@ -1,1 +1,6 @@
+bundle:
+  name: Conviva_PROD_BUNDLE
 
+include:
+  - "resources/*.yml"
+  
